@@ -14,6 +14,6 @@
 
 ## 相关资源
 
-相关课程资源：[东南大学 2023 年春季学期人工智能专业课程《机器学习》](https://github.com/seu-wzh/Pattern-Recognization.git)
+相关课程资源：[东南大学 2023 年春季学期人工智能专业课程《机器学习》](https://github.com/seu-wzh/Machine-Learning.git)
 
 参考书：**理查德 O.杜达，皮特 E.哈特，大卫 G.斯托克 著; 李宏东，姚天翔 等译 模式分类,北京:机械工业出版社,2022. (ISBN978-7-111-70428-7)**
