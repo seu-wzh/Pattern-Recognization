@@ -1,0 +1,13 @@
+**/.vscode
+**/*.ipynb
+**/__pycache__/
+
+handout/
+
+experiment/report.pdf
+experiment/insight/
+experiment/**/report/
+experiment/**/imgs/
+experiment/assignment/
+
+homework/**/report/
